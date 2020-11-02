@@ -1,0 +1,12 @@
+Package: DRG20FA
+Type: Package
+Title: Payments Analysis
+Version: 0.1.0
+Author: Yifan Wu
+Maintainer: Yifan Wu <yiw4006@med.cornell.edu>
+Description: This package is to display payments boxplots and statistics. 
+            Please choose the avrage type and statistics(mean, sd, median).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
